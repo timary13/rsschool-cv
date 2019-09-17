@@ -17,14 +17,18 @@
 - css, 
 - javascript, 
 - php;
+
 *Databases:* 
 - mysql, 
 - oracle database;
+
 *Systems:* 
 - windows, 
-- linux
+- linux;
+
 *Version control:* 
 - github;
+
 *IDE:* 
 - phpstorm, 
 - visual studio, 
@@ -32,3 +36,13 @@
 - netbeans, 
 - qt, 
 - arduino ide;
+
+*Tools:* 
+-filezilla, 
+-paint, 
+-notepad;
+
+*Methodologies:* 
+-OOP, 
+-learning functional programming.
+
