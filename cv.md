@@ -38,11 +38,31 @@
 - arduino ide;
 
 *Tools:* 
--filezilla, 
--paint, 
--notepad;
+- filezilla, 
+- paint, 
+- notepad;
 
 *Methodologies:* 
--OOP, 
--learning functional programming.
+- OOP, 
+- learning functional programming.
+
+## Code examples
+> Since recent times, I liked js, because of it I will give some examples of solving tasks from [codewars]( https://www.codewars.com). Based on the names of the functions, it is clear what problem it solves.
+
+```javascript
+function isTriangle(a,b,c)
+{
+  if((a < b+c) && (b < a+c) && (c < a+b))
+   return true;
+ else return false;
+}
+```
+
+```javascript
+function GetSum( from, to )
+{
+   return (Math.abs(from - to) + 1)*((from + to)/2);
+}
+```
+
 
