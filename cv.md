@@ -11,19 +11,24 @@
 
 ## Skills
 *Programming languages:*
-	- c/c++, 
-	- java, 
-	- html, 
-	- css, 
-	- javascript, 
-	- php;
+- c/c++, 
+- java, 
+- html, 
+- css, 
+- javascript, 
+- php;
 *Databases:* 
-	- mysql, 
-	- oracle database;
+- mysql, 
+- oracle database;
 *Systems:* 
-	- windows, 
-	- linux
+- windows, 
+- linux
 *Version control:* 
-	- github;
+- github;
 *IDE:* 
-- phpstorm, - visual studio, - eclipse, - netbeans, - qt, - arduino ide
+- phpstorm, 
+- visual studio, 
+- eclipse, 
+- netbeans, 
+- qt, 
+- arduino ide;
