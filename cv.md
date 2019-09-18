@@ -76,5 +76,11 @@ function GetSum( from, to )
 *Freelance projects:*
 - App for a wood house building company (с++, qt).
 
+## Education
+University, faculty	| BSUIR, Computer systems and networks
+Online learning	| learn.javascript.ru
+Courses	| RSSchool, Frontend course - now
 
+## English
+> I am studied English at school and at university. Now I am taking lessons from a tutor to raise the level. It’s easy for me to read technical literature, more difficult to speak English fluently. My English level between pre-intermediate and intermediate.
 
