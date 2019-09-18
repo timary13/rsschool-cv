@@ -65,4 +65,16 @@ function GetSum( from, to )
 }
 ```
 
+## Experience
+- Network port scanner (c++);
+- Graphic assistant car choice (c++, qt);
+- Tetris Drive (Java Swing), [TetrisDrive](https://github.com/timary13/TetrisDrive);
+- Car designer (php, html, css, javascript, jquery) – team project;
+- App for RC model control (java for Android, c for Arduino);
+- Information search system “Money” (php, html, css, javascript, jquery);
+
+*Freelance projects:*
+- App for a wood house building company (с++, qt).
+
+
 
