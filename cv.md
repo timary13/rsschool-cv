@@ -77,6 +77,7 @@ function GetSum( from, to )
 - App for a wood house building company (с++, qt).
 
 ## Education
+---------|------------
 University, faculty	| BSUIR, Computer systems and networks
 Online learning	| learn.javascript.ru
 Courses	| RSSchool, Frontend course - now
