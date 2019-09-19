@@ -1,0 +1,46 @@
+body {
+    max-width: 1024px;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #DBE9EE;
+    border-bottom: 1px solid #466995;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+
+}
+
+header ul {
+
+    text-align: center;
+}
+
+header li {
+    color: #148dff;
+    font-family: 'Oswald', sans-serif;
+
+
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100px;
+}
+
+header li:hover {
+    color: #466995;
+}
+
+img {
+    max-width: 150px;
+    max-height: 100px;
+}
+
+.item {
+    position: relative;
+    top: 50px;
+}
+div {
+    position: center;
+}
