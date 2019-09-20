@@ -66,26 +66,21 @@ code {
     font-size: 11px;
 }
 
-.contact, .education, .english, .summary, .experience {
+.contact, .education, .english, .summary, .experience, .person, .code, .skills {
     display: grid;
-    grid-template-columns: 200px 700px;
     grid-template-rows: auto;
     justify-items: left;
     align-items: center;
     align-content: center;
-    grid-auto-flow: row;
     grid-gap: 30px;
 }
 
+.contact, .education, .english, .summary, .experience {
+    grid-template-columns: 200px 700px;
+}
+
 .person, .code, .skills {
-    display: grid;
     grid-template-columns: 200px 300px 320px;
-    grid-template-rows: auto;
-    justify-items: left;
-    align-items: center;
-    align-content: center;
-    grid-gap: 30px;
-    grid-row-gap: 30px;
 }
 
 p {
