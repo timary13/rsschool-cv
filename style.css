@@ -5,11 +5,13 @@ body {
 }
 
 main {
-    background-color: antiquewhite;
+    background-color: #f9fdff;
+    border-radius: 25px;
+    border-bottom: 1px solid #466995;
 }
 
 header {
-    background-color: #DBE9EE;
+    background-color: #1260b7;
     border-bottom: 1px solid #466995;
     position: fixed;
     z-index: 10;
@@ -18,13 +20,15 @@ header {
 }
 
 .welcome {
-    background-color: #DBE9EE;
+    background-color: #e3f3fa;
     box-sizing: border-box;
     padding: 20px;
     text-align: center;
     width: 100%;
     position: relative;
     top: 50px;
+    font-family: Garamond;
+    color: #1260b7;
 }
 
 header ul {
@@ -33,15 +37,15 @@ header ul {
 }
 
 header li {
-    color: #148dff;
-    font-family: 'Oswald', sans-serif;
+    font-family: Garamond;
     text-transform: uppercase;
     display: inline-block;
     width: 150px;
 }
 
-header li:hover {
-    color: #466995;
+li, h4, table {
+    font-family: "Book Antiqua";
+    color: #082e59;
 }
 
 img {
@@ -54,6 +58,7 @@ img {
     position: relative;
     top: 70px;
     margin-bottom: 20px;
+    padding-bottom: 20px;
     margin-left: 90px;
 }
 
@@ -88,6 +93,10 @@ p {
     color: rgba(76, 113, 171, 0.86);
 }
 
+header a {
+    color: #e2efff;
+}
+
 .footer {
     text-align: center;
 }
@@ -95,4 +104,9 @@ p {
 .skills h4 {
     margin: 0;
     padding: 0;
+}
+
+h2 {
+    font-family: Garamond;
+    color: #1260b7;
 }
