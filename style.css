@@ -1,0 +1,107 @@
+
+body {
+    max-width: 1024px;
+    margin: auto;
+}
+
+main {
+    background-color: #f9fdff;
+    border-radius: 25px;
+    border-bottom: 1px solid #466995;
+}
+
+header {
+    background-color: #1260b7;
+    border-bottom: 1px solid #466995;
+    position: fixed;
+    z-index: 10;
+    width: 1024px;
+
+}
+
+.welcome {
+    background-color: #e3f3fa;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    top: 50px;
+    font-family: Garamond;
+    color: #1260b7;
+}
+
+header ul {
+    text-align: center;
+    alignment: center;
+}
+
+header li {
+    font-family: Garamond;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 150px;
+}
+
+li, h4, table {
+    font-family: "Book Antiqua";
+    color: #082e59;
+}
+
+img {
+    max-width: 150px;
+    max-height: 100px;
+    margin: 20px;
+}
+
+.item {
+    position: relative;
+    top: 70px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    margin-left: 90px;
+}
+
+code {
+    font-size: 11px;
+}
+
+.contact, .education, .english, .summary, .experience, .person, .code, .skills {
+    display: grid;
+    grid-template-rows: auto;
+    justify-items: left;
+    align-items: center;
+    align-content: center;
+    grid-gap: 30px;
+}
+
+.contact, .education, .english, .summary, .experience {
+    grid-template-columns: 200px 700px;
+}
+
+.person, .code, .skills {
+    grid-template-columns: 200px 300px 320px;
+}
+
+p {
+    font-family: Georgia;
+    color: rgba(76, 113, 171, 0.86);
+}
+
+header a {
+    color: #e2efff;
+}
+
+.footer {
+    text-align: center;
+}
+
+.skills h4 {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-family: Garamond;
+    color: #1260b7;
+}
